@@ -2,6 +2,5 @@
     "name":"Benefits Stake Pool",
     "ticker":"CBCP",
     "description":"Benefits Stake Pool believes everyone can and should benefit from DeFi access to earn passive income.",
-    "homepage":"https://benefitclaims.ca/passiveincome.html",
-    "extended": "https://raw.githubusercontent.com/poonasor/cbcp/main/meta-extended.json"
+    "homepage":"https://benefitclaims.ca/passiveincome.html"
 }
